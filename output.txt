@@ -1,0 +1,369 @@
+
+--- File: Books\BİLİM İŞ BAŞINDA.txt ---
+
+--- 1-gram ---
+bir : 454
+ve : 202
+bu : 154
+için : 90
+de : 77
+çok : 73
+ile : 71
+daha : 66
+da : 60
+olarak : 52
+
+--- 2-gram ---
+bir biçimde : 19
+pek çok : 19
+ile ilgili : 11
+deniz suyu : 10
+bir elektrik : 9
+herhangi bir : 9
+uygun bir : 9
+yine de : 9
+iyi bir : 9
+bu nedenle : 9
+
+--- 3-gram ---
+ne yazık ki : 5
+başka herhangi bir : 4
+söz konusu olduğunda : 4
+diğer bir deyişle : 4
+dahil olmak üzere : 4
+bir kabın içine : 3
+bir elektrik yükü : 3
+buzun erime noktası : 3
+yaygın olarak kullanılan : 3
+işe yarar bir : 3
+
+--- Processing Time ---
+Time: 0.2462967 seconds
+
+--- File: Books\DEĞİŞİM.txt ---
+
+--- 1-gram ---
+bir : 541
+ve : 256
+bu : 164
+gregor : 159
+ama : 146
+de : 123
+da : 103
+gregorun : 95
+gibi : 95
+için : 93
+
+--- 2-gram ---
+bir şey : 29
+anne ve : 29
+müdür bey : 24
+bay samsa : 18
+müdür beyin : 18
+bundan böyle : 17
+hiç de : 15
+ya da : 15
+bir an : 15
+böyle bir : 14
+
+--- 3-gram ---
+baylardan orta boylusu : 9
+anne ve babası : 9
+ne var ki : 8
+en ufak bir : 6
+diye geçirdi içinden : 5
+anne ve babasına : 5
+ama yine de : 4
+böyle bir şeyin : 4
+anne ve babasının : 4
+üzerine yığılıp kaldı : 3
+
+--- Processing Time ---
+Time: 0.1659352 seconds
+
+--- File: Books\grimms-fairy-tales_1.txt ---
+
+--- 1-gram ---
+the : 227
+and : 163
+to : 91
+he : 74
+you : 43
+was : 39
+his : 38
+it : 35
+a : 34
+him : 34
+
+--- 2-gram ---
+the fox : 22
+to the : 22
+and the : 19
+the golden : 17
+in the : 17
+the king : 13
+the bird : 13
+the princess : 12
+then the : 11
+but the : 11
+
+--- 3-gram ---
+and in the : 7
+the golden bird : 7
+came to the : 7
+the young man : 7
+to the king : 6
+you come to : 5
+the king and : 5
+in the morning : 5
+the fox said : 5
+then the fox : 5
+
+--- Processing Time ---
+Time: 0.0174855 seconds
+
+--- File: Books\grimms-fairy-tales_2.txt ---
+
+--- 1-gram ---
+the : 96
+and : 86
+a : 74
+he : 60
+ı : 55
+to : 52
+you : 49
+his : 48
+it : 42
+for : 34
+
+--- 2-gram ---
+as he : 10
+said the : 9
+it is : 7
+he was : 7
+said hans : 7
+a pig : 6
+the cow : 6
+he had : 6
+to be : 6
+the world : 6
+
+--- 3-gram ---
+ı gave a : 4
+for it and : 4
+butter and cheese : 3
+it and the : 3
+gave him a : 3
+by his side : 2
+and at last : 2
+seven long years : 2
+said the other : 2
+ı will change : 2
+
+--- Processing Time ---
+Time: 0.0177212 seconds
+
+--- File: Books\grimms-fairy-tales_3.txt ---
+
+--- 1-gram ---
+the : 71
+and : 54
+he : 47
+a : 29
+to : 23
+in : 22
+was : 19
+her : 18
+of : 17
+that : 16
+
+--- 2-gram ---
+in the : 12
+flower and : 7
+the flower : 6
+could not : 6
+the fairy : 6
+the castle : 6
+to the : 5
+then he : 5
+he could : 4
+into a : 4
+
+--- 3-gram ---
+the flower and : 4
+the middle of : 3
+with the flower : 3
+could not move : 3
+he could not : 3
+in the middle : 3
+in the castle : 3
+whose name was : 2
+whu tu whu : 2
+changed into a : 2
+
+--- Processing Time ---
+Time: 0.0420297 seconds
+
+--- File: Books\grimms-fairy-tales_4.txt ---
+
+--- 1-gram ---
+the : 115
+and : 60
+a : 40
+to : 38
+they : 26
+in : 19
+had : 19
+with : 18
+of : 18
+ass : 16
+
+--- 2-gram ---
+the ass : 15
+said the : 13
+the cock : 8
+the cat : 8
+the dog : 8
+in the : 8
+to the : 7
+and the : 7
+of the : 6
+as they : 5
+
+--- 3-gram ---
+said the ass : 8
+the great city : 4
+and the cock : 4
+up to the : 3
+said the cock : 3
+top of the : 3
+the house and : 3
+him in the : 2
+all his might : 2
+because ı am : 2
+
+--- Processing Time ---
+Time: 0.0453071 seconds
+
+--- File: Books\grimms-fairy-tales_5.txt ---
+
+--- 1-gram ---
+the : 59
+and : 53
+to : 25
+his : 21
+a : 17
+he : 17
+him : 15
+sultan : 15
+wolf : 13
+was : 12
+
+--- 2-gram ---
+the wolf : 13
+in the : 7
+the shepherd : 6
+and the : 5
+his wife : 5
+ı will : 5
+old sultan : 4
+the boar : 4
+to be : 4
+and when : 3
+
+--- 3-gram ---
+the shepherd and : 3
+shepherd and his : 3
+and his wife : 3
+the wolf was : 2
+as long as : 2
+he has served : 2
+in the air : 2
+sultan who was : 2
+out of the : 2
+has served us : 2
+
+--- Processing Time ---
+Time: 0.0353093 seconds
+
+--- File: Books\grimms-fairy-tales_6.txt ---
+
+--- 1-gram ---
+the : 38
+and : 25
+a : 17
+to : 13
+straw : 8
+she : 8
+her : 8
+have : 8
+on : 8
+had : 7
+
+--- 2-gram ---
+the straw : 6
+the bean : 5
+the coal : 5
+into the : 4
+have been : 4
+to the : 3
+when she : 3
+old woman : 3
+down to : 2
+would have : 2
+
+--- 3-gram ---
+would have been : 2
+the straw the : 2
+should have been : 2
+the old woman : 2
+into the pan : 2
+idea and said : 1
+her last the : 1
+good fortune a : 1
+made a fire : 1
+then have a : 1
+
+--- Processing Time ---
+Time: 0.0044566 seconds
+
+--- File: Books\grimms-fairy-tales_7.txt ---
+
+--- 1-gram ---
+the : 141
+and : 105
+a : 33
+to : 29
+was : 27
+in : 25
+her : 25
+that : 22
+of : 21
+on : 21
+
+--- 2-gram ---
+and the : 14
+in the : 12
+on the : 10
+of the : 10
+king and : 7
+the king : 7
+and queen : 6
+all the : 6
+into the : 5
+to the : 5
+
+--- 3-gram ---
+king and queen : 6
+the king and : 5
+and the cook : 3
+and the horses : 3
+till at last : 3
+the kings daughter : 3
+came to the : 2
+and queen had : 2
+the palace and : 2
+that he could : 2
+
+--- Processing Time ---
+Time: 0.0104422 seconds
